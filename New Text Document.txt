@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hjhfkjjkjkfhjkfh
+=======
+bdhjhjfhjf
+>>>>>>> MyProject
