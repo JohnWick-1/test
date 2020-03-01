@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hjhfkjjkjkfhjkfh
-=======
-bdhjhjfhjf
->>>>>>> MyProject
+hi chetan
